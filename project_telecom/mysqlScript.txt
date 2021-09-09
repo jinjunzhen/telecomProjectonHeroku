@@ -1,0 +1,4 @@
+CREATE SCHEMA `ss_p2` ;
+
+
+
